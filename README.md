@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Vpc2Vzazd5b292N21ncnlqNHQ0dHo5d2R1NjgxNjR0b3dkcGVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EtvkxBB5i5eEiQJFyS/giphy.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  https://giphy.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
